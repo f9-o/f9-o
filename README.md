@@ -61,35 +61,32 @@ This is a summary of the key technologies I utilize:
 
 ---
 
+---
+
 ### My GitHub Stats
 
-> [!NOTE]
-> **Important:** Please replace `YOUR_USERNAME` with your actual GitHub username (e.g., `f9-o`) in the image links below to activate your stats.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=f9-o&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Faisal's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f9-o&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=f9-o&theme=github_dark" alt="GitHub Streak" />
+</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Faisal's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark" alt="GitHub Streak" />
-</p>
+
+---
 
 ---
 
 ### Connect with Me
 
-I am always open to discussing new projects, creative ideas, or opportunities.
-
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://x.com/0xf9o" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   &nbsp;
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio">
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://instagram.com/_5fsl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
