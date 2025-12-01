@@ -9,9 +9,11 @@
   <a href="https://x.com/0xf9o">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.instagram.com/92n_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <img src="https://img.shields.io/badge/Discord-f9s6-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  
   <img src="https://komarev.com/ghpvc/?username=f9-o&label=Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -79,13 +81,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f9-o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f9-o&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f9-o&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f9-o&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=f9-o&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=f9-o&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br>
