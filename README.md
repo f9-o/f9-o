@@ -90,11 +90,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=f9-o&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=f9-o&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
 <br>
 
 <p align="center">
