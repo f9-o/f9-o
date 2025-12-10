@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Faisal Al-Harbi 👋</h1>
+  <h1 align="center">Hi, I'm Faisal Al-Shrif 👋</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%26+Cloud+Architect;Cybersecurity+Enthusiast;Building+Secure+Systems" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://x.com/0xf9o">
+  <a href="https://x.com/if9s0">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.instagram.com/92n_">
