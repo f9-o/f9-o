@@ -76,7 +76,7 @@ I don't just write code; I build **Integrated Ecosystems**. My expertise lies in
 
 ## ⚡ Quick Connect
 * **LinkedIn:** [Faisal Alnumani](https://www.linkedin.com/in/faisal-f-alnumani-7a165b368)
-* **Email:** [f9-dev@outlook.com](mailto:f9-dev@outlook.com)
+* **Email:** [92n1@proton.me](mailto:f9-dev@outlook.com)
 * **Project Site:** [F9-Tools.app](https://f9-tools.netlify.app/)
 
 <p align="center">
